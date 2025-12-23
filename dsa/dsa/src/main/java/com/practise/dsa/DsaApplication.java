@@ -8,7 +8,7 @@ public class DsaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DsaApplication.class, args);
-		System.out.println("Updated code")
+		System.out.println("Updated code2");
 	}
 
 }
